@@ -7834,7 +7834,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 body {
   font-family: "Raleway", sans-serif;
-  background-color: pink; }
+  background-color: #f4f4f4; }
 
 .navbar {
   font-weight: 100;
@@ -7853,7 +7853,7 @@ body {
 
 #showcase {
   background: url("../images/main.jpeg") bottom center/cover no-repeat;
-  min-height: 750px;
+  min-height: 550px;
   position: relative; }
   #showcase #overlay {
     background: rgba(0, 0, 0, 0.2);
@@ -7879,7 +7879,7 @@ body {
       border-bottom: none; }
 
   #showcase {
-    min-height: 500px; }
+    min-height: 350px; }
     #showcase h1 {
       font-size: 4rem; } }
 

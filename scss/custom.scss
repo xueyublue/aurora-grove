@@ -1,6 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
-  background-color: pink;
+  background-color: #f4f4f4;
 }
 
 .navbar {
@@ -24,7 +24,7 @@ body {
 
 #showcase {
   background: url("../images/main.jpeg") bottom center / cover no-repeat;
-  min-height: 750px;
+  min-height: 550px;
   position: relative;
   #overlay {
     background: rgba(0, 0, 0, 0.2);
@@ -56,7 +56,7 @@ body {
     }
   }
   #showcase {
-    min-height: 500px;
+    min-height: 350px;
     h1 {
       font-size: 4rem;
     }
