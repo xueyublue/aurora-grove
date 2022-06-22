@@ -1,2 +1,2 @@
-# aurora-grove
+# Aurora Grove
 Bootstrap Demo Project
